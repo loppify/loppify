@@ -5,10 +5,10 @@ I'm a developer who is passionate about [AI, web development, learning new tech]
 ---
 
 ### About Me
-- 🔭 I’m currently working on **[ePet and]**
-- 🌱 I’m currently learning **[AI]** and **[React]**
-- 📫 How to reach me **[https://t.me/nero_lt]**
-- 😄 Pronouns: **[he/him]**
+- 🔭 I’m currently working on **ePet and**
+- 🌱 I’m currently learning **AI** and **[React**
+- 📫 How to reach me **[Telegram](https://t.me/nero_lt)**
+- 😄 Pronouns: **he/him**
 
 ---
 
