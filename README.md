@@ -38,7 +38,7 @@ Here are some of the projects I'm proud of.
 | :--- | :--- |
 | **[ScheduleCurseWork](https://github.com/loppify/ScheduleCurseWork)** | A desktop application for managing course schedules, built with C#. |
 | **[DesktopTimer](https://github.com/loppify/DesktopTimer)** | A simple and clean timer application for Windows. |
-| **[BlueArchiveBanners](https://github.com/loppify/BlueArchiveBanners)** | A Python script to [track banners in the game Blue Archive]. |
+| **[BlueArchiveBanners](https://github.com/loppify/BlueArchiveBanners)** | A Python script to track banners in the game Blue Archive. |
 | **[loppify.github.io](https://github.com/loppify/loppify.github.io)** | My personal portfolio website. |
 
 ---
