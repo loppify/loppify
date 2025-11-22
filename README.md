@@ -1,6 +1,6 @@
 ### Hi there, I'm Rostyslav Tarasov 👋
 
-I'm a developer who is passionate about [AI, web development, learning new tech].
+I'm a developer who is passionate about AI, web development, learning new tech.
 
 ---
 
