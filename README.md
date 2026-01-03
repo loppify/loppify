@@ -5,8 +5,7 @@ I'm a developer who is passionate about AI, web development, learning new tech.
 ---
 
 ### About Me
-- 🔭 I’m currently working on **ePet and**
-- 🌱 I’m currently learning **AI** and **React**
+- 🌱 I’m currently learning **AI** and **Avalonia UI**
 - 📫 How to reach me **[Telegram](https://t.me/nero_lt)**
 - 😄 Pronouns: **he/him**
 
@@ -48,5 +47,5 @@ Here are some of the projects I'm proud of.
 <p align="center">
   <!--   <img src="https://github-readme-stats.vercel.app/api?username=loppify&show_icons=true&theme=radical" alt="loppify's GitHub stats" />  --->
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loppify&layout=compact&theme=radical" alt="loppify's top languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loppify&layout=compact&theme=radical" alt="loppify's top languages" /> -->
 </p>
