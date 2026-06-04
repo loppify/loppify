@@ -22,9 +22,6 @@ Here are some of the technologies I've worked with:
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   </a>
-  <a href="https://ejs.co/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/EJS-10350E?style=for-the-badge&logo=javascript&logoColor=white" alt="EJS"/>
-  </a>
 </p>
 
 ---
